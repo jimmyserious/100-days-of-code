@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: 06/01/2023
+### Day 0: 06/01/2023 - Friday
 
 **Today's Progress**: Today is about making the plan not a coding day, jsut setting the activities and structure of what I am to do up
 
