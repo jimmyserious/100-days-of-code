@@ -1,19 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: 06/01/2023 - Friday
+### Day 0: 
 
-**Today's Progress**: Today is about making the plan not a coding day, jsut setting the activities and structure of what I am to do up
+### Day 1: Wednesday 07/08
+**Today**
+Going to spin up react app, and have it hosted somemwhere. I have a spare domain that I haven't really used since I got it. So I will use that to see if I can pop something up there.
 
-**Thoughts:** I struggle with the links everywhere, I just want to keep this simple and keep coding.
+First thoughts for now are a surf reporting site, hopefully scraping some live data into a interface. But lets just setup a skeleton, not really worried about an API at the moment so will work with some hard coded JSON files.
 
-**Link to work:** No work to show today
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
